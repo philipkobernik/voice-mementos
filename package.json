@@ -1,0 +1,22 @@
+{
+  "name": "finding-the-grain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sqlite3-interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipkobernik/voice-mementos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipkobernik/voice-mementos/issues"
+  },
+  "homepage": "https://github.com/philipkobernik/voice-mementos#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
